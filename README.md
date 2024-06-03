@@ -9,6 +9,18 @@ The scope of this project entails providing comprehensive analysis for users bas
 - Word Cloud
 - Topic Modelling
 
+![EDA](https://github.com/jadenguyen06/app_store_review_analysis_tool/assets/171535084/abad9001-5378-445f-919f-4442c02b38b4)
+
+![EDA 2](https://github.com/jadenguyen06/app_store_review_analysis_tool/assets/171535084/2f9cf99f-b7e3-4855-9cd8-cacdf7b50f42)
+
+![Sentiment](https://github.com/jadenguyen06/app_store_review_analysis_tool/assets/171535084/ba48f697-93b0-4d71-bfa2-81263b42065b)
+
+![WordCloud](https://github.com/jadenguyen06/app_store_review_analysis_tool/assets/171535084/b6cc4e8a-1664-4d3a-9dfe-fc5b8807eb66)
+
+![TopicModelling](https://github.com/jadenguyen06/app_store_review_analysis_tool/assets/171535084/93a20f0a-5565-4386-a89a-d8b011744e79)
+
+
+
 ## How to use
 Start the app by using the following command:\
 `streamlit run app.py`
