@@ -27,6 +27,11 @@ Start the app by using the following command:\
 
 Enter the App Store URL and number of review to fetch (max 2000 reviews/request) and click Submit button!
 
+![Main feature](https://github.com/jadenguyen06/app_store_review_analysis_tool/assets/171535084/4da6cea8-ba15-4b23-bbff-dbd8d118e51f)
+
+![Show Data](https://github.com/jadenguyen06/app_store_review_analysis_tool/assets/171535084/3add49c0-422a-421e-b9b5-97c16f3480e8)
+
+
 The app will fetch reviews, save them to a CSV file, and perform exploratory data analysis (EDA), sentiment analysis, word cloud generation, and topic modeling. You can adjust the number of topics to better infer the themes or subject matters represented by the topics.
 
 ## Alert
