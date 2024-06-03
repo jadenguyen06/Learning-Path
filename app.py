@@ -65,7 +65,7 @@ class AppData:
         return pd.read_csv(filename)
         
 class EDA: 
-    '''Conduct Exploratory Data Analysis'''
+    '''Conduct Exploratory Data Analysis 2'''
     def __init__(self, data):
         self.data = data
 
