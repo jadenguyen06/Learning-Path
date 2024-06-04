@@ -58,14 +58,14 @@ class ReviewScraper:
         appdf2.to_csv(filename)
 
 class AppData:
-    '''Cach the data loaded for subsequent calls'''
+    '''Cach the data for subsequent calls'''
     @staticmethod
     @st.cache_data()
     def load_reviews_csv(filename):
         return pd.read_csv(filename)
-    
+        
 class EDA: 
-    '''Conduct Exploratory Data Analysis'''
+    '''Conduct Exploratory Data Analysis 2'''
     def __init__(self, data):
         self.data = data
 
